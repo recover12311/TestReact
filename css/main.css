@@ -1,0 +1,42 @@
+        #action {
+            margin: 2% 0 0 2%;
+        }
+
+        #localdate {
+            margin-left: 1%;
+        }
+
+        #button {
+            margin-left: 1%;
+            padding: 5px 15px;
+        }
+
+        #table {
+            border-collapse: collapse;
+            margin: 3% 0 0 2%;
+        }
+
+        #table tr td {
+            padding: 10px 30px;
+            border: 1px solid black;
+        }
+
+        #table tr td:first-child {
+            width: 500px;
+        }
+
+        #table tr td:nth-child(2) {
+            width: 60px;
+        }
+
+        .green {
+            background-color: green;
+        }
+
+        .red {
+            background-color: red;
+        }
+
+        .gray {
+            background-color: gray;
+        }
